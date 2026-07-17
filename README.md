@@ -5,19 +5,17 @@ An end-to-end data analytics project transforming raw retail transactional logs 
 ## Project Files
 * [bakery queries.sql](bakery%20queries.sql) – Database creation, bulk ingestion, and data cleaning scripts.
 * [Bakery Sales Dashboard.pbix](Bakery%20Sales%20Dashboard.pbix) – Compiled Power BI dashboard with data model and DAX measures.
-* [Bakery Sales.csv](Bakery%20Sales.csv) – Raw transactional volume dataset.
-* [Bakery price.csv](Bakery%20price.csv) – Raw menu item pricing dataset.
 
 ## Dashboard Preview
 
 ### Page 1: Sales Performance
-![Sales Performance](Screenshot%20(364).jpg)
+![Sales Performance](Screenshot%20(364).png)
 
 ### Page 2: Store Performance
-![Store Performance](Screenshot%20(365).jpg)
+![Store Performance](Screenshot%20(365).png)
 
 ### Page 3: Insights & Recommendations
-![Insights](Screenshot%20(366).jpg)
+![Insights](Screenshot%20(366).png)
 
 ## 1. SQL Data Engineering & Cleaning
 The raw unstructured tables were imported, cleaned, and structured using MySQL:
