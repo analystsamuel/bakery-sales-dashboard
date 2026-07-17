@@ -1,6 +1,6 @@
 # Bakery Sales Performance & Analytics Pipeline
 
-This is an end-to-end data analytics project transforming raw retail transactional logs into an interactive 3-page business intelligence dashboard using SQL and Power BI.
+An end-to-end data analytics project transforming raw retail transactional logs into an interactive 3-page business intelligence dashboard using SQL and Power BI.
 
 ## Project Files
 * [bakery queries.sql](bakery%20queries.sql) – Database creation, bulk ingestion, and data cleaning scripts.
